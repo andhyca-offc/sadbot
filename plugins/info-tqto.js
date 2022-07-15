@@ -45,15 +45,15 @@ https://github.com/Johannes2803
 https://github.com/BrunoSobrino
 *❉ Krisna:*
 https://github.com/NevtBotz
-*❉ LitRHap:*
-https://github.com/LitRHap
+*❉ Andhyca:*
+https://github.com/andhyca-offc
 *❉ Rlxfly:*
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
-*❉ Fahri:*
-https://github.com/FahriAdison
+*❉ Andhyca:*
+https://github.com/andhyca-offc
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*
@@ -61,10 +61,10 @@ https://github.com/FahriAdison
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://Instagram.com/andhycarsrofficial",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://Instagram.com/andhycarsrofficial", 
+    title: '「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐛𝐨𝐭𝐳-𝐌𝐝ོ | © Ⓚ︎🅘︎Ⓝ︎🅖︎ • 𝐴𝑛𝑑ℎ𝑦𝑐𝑎ᵍᵃⁿᶻ 」',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
