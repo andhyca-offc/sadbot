@@ -57,7 +57,7 @@ handler.all = async function (m) {
             mediaUrl: "https://Instagram.com/andhycarsrofficial",
             mediaType: "VIDEO",
             description: "https://Instagram.com/andhycarsrofficial", 
-            title: 'Simple Bot Esm',
+            title: '「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐛𝐨𝐭𝐳-𝐌𝐝ོ | © Ⓚ︎🅘︎Ⓝ︎🅖︎ • 𝐴𝑛𝑑ℎ𝑦𝑐𝑎ᵍᵃⁿᶻ 」',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -135,8 +135,8 @@ global.fakefb = {
                                "mimetype": "image/jpeg",
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
-                           "title": wm, //Kasih namalu 
-                           "description": "Simple Bot Esm", 
+                           "title": Ⓚ︎🅘︎Ⓝ︎🅖︎ • 𝐴𝑛𝑑ℎ𝑦𝑐𝑎ᵍᵃⁿᶻ, //Kasih namalu 
+                           "description": "「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐛𝐨𝐭𝐳-𝐌𝐝ོ | © Ⓚ︎🅘︎Ⓝ︎🅖︎ • 𝐴𝑛𝑑ℎ𝑦𝑐𝑎ᵍᵃⁿᶻ 」", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
